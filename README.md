@@ -46,6 +46,7 @@ Mantl is a modern, batteries included platform for rapidly deploying globally di
 * [Mesos](http://mesos.apache.org) cluster manager for efficient resource isolation and sharing across distributed services
 * [Marathon](https://mesosphere.github.io/marathon) for cluster management of long running containerized services
 * [Consul](http://consul.io) for service discovery
+* [Kong](http://getkong.org) for managing APIs
 * [Vault](http://vaultproject.io) for managing secrets
 * [Docker](http://docker.io) container runtime
 * [collectd](https://collectd.org/) for metrics collection
